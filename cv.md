@@ -1,6 +1,6 @@
 1. Vasili Lipinski, Vitebsk, Belarus
 
-2. Contacts: tel: +375259506602, email: Ovilord199210@gmail.com.
+2. Contacts: tel: +375259506602, email: Ovilord199210@gmail.com, linkedin: https://www.linkedin.com/in/василий-липинский-635b531a8/
 
 3. Now moving towards IT technology through Java and Android. Have a lot of enthusiasm and eager to work in IT-sphere.
 
