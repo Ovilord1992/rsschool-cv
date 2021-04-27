@@ -10,4 +10,4 @@
 
 6. Education: Vitebsk State Machine Tool College
 
-7. English: A2
+7. English: A2+
